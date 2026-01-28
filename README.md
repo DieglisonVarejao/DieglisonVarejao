@@ -1,12 +1,19 @@
 # 👋 Olá! Eu sou o Dieglison Varejão
 
 🎓 **Técnico em Informática**  
-📘 **Cursando Engenharia de Software**  
+📘 **Cursando Engenharia de Software**
+
+---
+
+## 📊 GitHub Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieglisonVarejao&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=DieglisonVarejao)
 
 ---
 
 ## 🚀 Sobre mim
-Sou Técnico em Informática e atualmente curso **Engenharia de Software**.  
+Sou técnico em informática e atualmente curso **Engenharia de Software**.  
 Estou focado no aprendizado e desenvolvimento de soluções utilizando **Python**, com ênfase na criação de **APIs REST** usando **Flask**.  
 Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 
@@ -17,7 +24,15 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 - APIs em Python com Flask ⚙️  
 - Git & GitHub  
 - Lógica de Programação  
-- Banco de Dados (SQLite)  
+- Banco de Dados (SQLite)
+
+---
+
+## 🚀 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -29,7 +44,6 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 ---
 
 ⭐ *Fique à vontade para explorar meus repositórios e acompanhar minha evolução!*
-
 
 
 <!--
