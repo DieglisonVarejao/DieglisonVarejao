@@ -1,11 +1,35 @@
-## Hi there 👋
-<!-- Cabeçalho -->
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título6
+# 👋 Olá! Eu sou o Dieglison Varejão
+
+🎓 **Técnico em Informática**  
+📘 **Cursando Engenharia de Software**  
+
+---
+
+## 🚀 Sobre mim
+Sou Técnico em Informática e atualmente curso **Engenharia de Software**.  
+Estou focado no aprendizado e desenvolvimento de soluções utilizando **Python**, com ênfase na criação de **APIs REST** usando **Flask**.  
+Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
+
+---
+
+## 🛠️ Desenvolvendo habilidades em
+- Python 🐍  
+- APIs em Python com Flask ⚙️  
+- Git & GitHub  
+- Lógica de Programação  
+- Banco de Dados (SQLite)  
+
+---
+
+## 📚 Em aprendizado contínuo
+- Desenvolvimento de APIs REST  
+- Boas práticas em Python  
+- Versionamento de código  
+
+---
+
+⭐ *Fique à vontade para explorar meus repositórios e acompanhar minha evolução!*
+
 
 
 <!--
