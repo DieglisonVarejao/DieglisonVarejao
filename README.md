@@ -29,10 +29,9 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 ---
 
 ## 📊 GitHub Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default" />
-</div>
-
+![GitHub](https://img.shields.io/badge/GitHub-DieglisonVarejao-181717?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-GitHub-blue?style=for-the-badge&logo=github)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Perfil-blueviolet?style=for-the-badge)
 
 <!--
 ## 📊 GitHub Status
