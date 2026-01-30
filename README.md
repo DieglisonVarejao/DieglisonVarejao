@@ -12,8 +12,8 @@ Sou formador em Técnico em Informática e atualmente curso **Engenharia de Soft
 Estou focado no aprendizado e desenvolvimento de soluções utilizando **Python**, com ênfase na criação de **APIs REST** usando **Flask**.  
 Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 
-🎓 **Técnico em Informática(IFAM)**  
-📘 **Cursando Engenharia de Software(UFAM)**
+🎓 **Técnico em Informática (IFAM)**  
+📘 **Cursando Engenharia de Software (UFAM)**
 
 ---
 
@@ -28,9 +28,9 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=dracula" />
-</div>
+## 📊 GitHub Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieglisonVarejao&layout=compact)
 
 
 
