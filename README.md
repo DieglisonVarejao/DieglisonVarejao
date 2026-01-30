@@ -28,7 +28,10 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=dracula" />
+</div>
+
 
 
 <!--
