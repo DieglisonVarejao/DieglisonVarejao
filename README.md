@@ -30,7 +30,7 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 
 ## 📊 GitHub Status
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default" />
 </div>
 
 
