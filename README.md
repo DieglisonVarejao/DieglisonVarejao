@@ -1,4 +1,4 @@
-<center><h1>Olá! Eu sou o Dieglison Varejão 👋</h1></center>
+<h1 align="center">Olá! Eu sou o Dieglison Varejão 👋</h1>
 
 <div align="center">
   <img 
