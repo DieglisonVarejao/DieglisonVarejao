@@ -50,6 +50,12 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
         <a href="https://hermes.dio.me/certificates/8JLSDE4W.pdf">Certificado</a>
       </td>
     </tr>
+    <tr>
+      <td>Introdução aos Conceitos de Git e Github</td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/PUKHOYGN.pdf">Certificado</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
