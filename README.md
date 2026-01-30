@@ -28,15 +28,53 @@ Gosto de aprender na prática e evoluir constantemente como desenvolvedor.
 
 ---
 
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Cursos</th>
+      <th>Certificados</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Formação Python Fundamentals</td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/KGFTSGC4.pdf">Certificado</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Boas Práticas em Python: Pacotes, Banco de Dados e Desenvolvimento Web</td>
+      <td>
+        <a href="https://hermes.dio.me/certificates/8JLSDE4W.pdf">Certificado</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+---
 ## 📊 GitHub Status
-![GitHub](https://img.shields.io/badge/GitHub-DieglisonVarejao-181717?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-GitHub-blue?style=for-the-badge&logo=github)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-Perfil-blueviolet?style=for-the-badge)
+<div>
+<a href="https://github.dev/DieglisonVarejao">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieglisonVarejao&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 <!--
 ## 📊 GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DieglisonVarejao&layout=compact)
+
+---
+
+## 📊 GitHub Status
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DieglisonVarejao&show_icons=true&theme=default" />
+</div>
 
 ---
 
